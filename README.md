@@ -52,7 +52,7 @@ Este repositório contém diversos temas personalizados para o Grub.
   ```fish
   sudo cp -r corinthians1 /boot/grub/themes/
   ```
-  #### 3️⃣ Make changes to the GRUB config file.
+  #### 3️⃣ Faça as alterações no arquivo de configuração do Grub.
 
   ```fish
   sudo vim /etc/default/grub
@@ -61,7 +61,7 @@ Este repositório contém diversos temas personalizados para o Grub.
  
   Altere a linha `GRUB_TERMINAL_OUTPUT=console` para  `#GRUB_TERMINAL_OUTPUT=console`
 
-  Then save the file.
+  Então, salve o arquivo.
 
   #### 4️⃣ Finalmente, atualize o arquivo de configuração do Grub.
   ```fish
