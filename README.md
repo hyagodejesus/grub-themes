@@ -5,17 +5,17 @@ Este repositório contém diversos temas personalizados para o Grub.
 <details>
  <summary><b>Debian 💀 Ubuntu 💀 Arch</b></summary>
  
-  #### 1️⃣ Faça o seu download favorito [**Aqui**]().
+  #### 1️⃣ Faça o download do repositório [**Aqui**](https://github.com/hyagoshodan/Grub-themes/archive/refs/heads/main.zip).
 
   Agora extraia o arquivo zip.
 
-  Extraia manualmente ou use o comando abaixo. (Aqui estou usando a versão 'corinthians1' como exemplo)
+  Extraia manualmente ou use o comando abaixo.
   ```fish
   unzip corinthians1.zip
   ```
   *O restante dos comandos são os mesmos para todos os estilos de tema.*
 
-  #### 2️⃣ Copie o diretório do tema.
+  #### 2️⃣ Copie o diretório do tema (Aqui estou usando a versão 'corinthians1' como exemplo).
   ```fish
   sudo cp -r corinthians1 /boot/grub/themes/
   ```
@@ -38,17 +38,17 @@ Este repositório contém diversos temas personalizados para o Grub.
 <details>
  <summary><b>Fedora 💀 Redhat</b></summary>
  
-  #### 1️⃣ Faça o seu download favorito [**Aqui**]().
+  #### 1️⃣ Faça o download do repositório [**Aqui**](https://github.com/hyagoshodan/Grub-themes/archive/refs/heads/main.zip).
 
   Agora extraia o arquivo zip.
 
-  Extraia manualmente ou use o comando abaixo. (Aqui estou usando a versão 'corinthians1' como exemplo)
+  Extraia manualmente ou use o comando abaixo.
   ```fish
   unzip corinthians1.zip
   ```
    *O restante dos comandos são os mesmos para todos os estilos de tema.*
 
-  #### 2️⃣ Copie o diretório do tema.
+  #### 2️⃣ Copie o diretório do tema (Aqui estou usando a versão 'corinthians1' como exemplo).
   ```fish
   sudo cp -r corinthians1 /boot/grub/themes/
   ```
