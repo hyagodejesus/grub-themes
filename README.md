@@ -9,9 +9,9 @@ Este repositório contém diversos temas personalizados para o Grub.
 
   Agora extraia o arquivo zip.
 
-  Extraia manualmente ou use o comando abaixo.
+  Extraia o arquivo pelo gerenciador de arquivos ou use o comando abaixo.
   ```fish
-  unzip corinthians1.zip
+  unzip Grub-themes-main.zip
   ```
   *O restante dos comandos são os mesmos para todos os estilos de tema.*
 
@@ -42,9 +42,9 @@ Este repositório contém diversos temas personalizados para o Grub.
 
   Agora extraia o arquivo zip.
 
-  Extraia manualmente ou use o comando abaixo.
+  Extraia o arquivo pelo gerenciador de arquivos ou use o comando abaixo.
   ```fish
-  unzip corinthians1.zip
+  unzip Grub-themes-main.zip
   ```
    *O restante dos comandos são os mesmos para todos os estilos de tema.*
 
