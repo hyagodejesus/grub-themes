@@ -9,22 +9,22 @@ Este repositório contém diversos temas personalizados para o Grub.
 
   Agora extraia o arquivo zip.
 
-  Extraia manualmente ou use o comando abaixo. (Aqui estou usando a versão 'corinthians' como exemplo)
+  Extraia manualmente ou use o comando abaixo. (Aqui estou usando a versão 'corinthians1' como exemplo)
   ```fish
-  unzip corinthians.zip
+  unzip corinthians1.zip
   ```
   *O restante dos comandos são os mesmos para todos os estilos de tema.*
 
   #### 2️⃣ Copie o diretório do tema.
   ```fish
-  sudo cp -r corinthians /boot/grub/themes/
+  sudo cp -r corinthians1 /boot/grub/themes/
   ```
   #### 3️⃣ Faça as seguintes alterações no arquivo de configuração do Grub.
 
   ```fish
   sudo vim /etc/default/grub
   ```
-  Encontre a linha `GRUB_THEME=` então faça a seguinte alteração `GRUB_THEME="/boot/grub/themes/corinthians/theme.txt"`
+  Encontre a linha `GRUB_THEME=` então faça a seguinte alteração `GRUB_THEME="/boot/grub/themes/corinthians1/theme.txt"`
 
   Então salve o arquivo.
 
@@ -42,22 +42,22 @@ Este repositório contém diversos temas personalizados para o Grub.
 
   Agora extraia o arquivo zip.
 
-  Extraia manualmente ou use o comando abaixo. (Aqui estou usando a versão 'corinthians' como exemplo)
+  Extraia manualmente ou use o comando abaixo. (Aqui estou usando a versão 'corinthians1' como exemplo)
   ```fish
-  unzip corinthians.zip
+  unzip corinthians1.zip
   ```
    *O restante dos comandos são os mesmos para todos os estilos de tema.*
 
   #### 2️⃣ Copie o diretório do tema.
   ```fish
-  sudo cp -r corinthians /boot/grub/themes/
+  sudo cp -r corinthians1 /boot/grub/themes/
   ```
   #### 3️⃣ Make changes to the GRUB config file.
 
   ```fish
   sudo vim /etc/default/grub
   ```
-  Encontre a linha `GRUB_THEME=` então faça a seguinte alteração `GRUB_THEME="/boot/grub2/themes/corinthians/theme.txt"`
+  Encontre a linha `GRUB_THEME=` então faça a seguinte alteração `GRUB_THEME="/boot/grub2/themes/corinthians1/theme.txt"`
  
   Altere a linha `GRUB_TERMINAL_OUTPUT=console` para  `#GRUB_TERMINAL_OUTPUT=console`
 
@@ -73,7 +73,7 @@ Este repositório contém diversos temas personalizados para o Grub.
 
 ### ❌ Desinstalação
 ```fish
-sudo rm -rf /boot/grub2/themes/corinthians
+sudo rm -rf /boot/grub2/themes/corinthians1
 ```
 
 ## 📸 Pré-visualição
