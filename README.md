@@ -3,7 +3,7 @@ Este repositório contém diversos temas personalizados para o Grub.
 
 ### ✔️ Instalação Manual
 <details>
- <summary><b>Debian 💀 Ubuntu 💀 Arch</b></summary>
+ <summary><b>Debian | Ubuntu | Arch</b></summary>
  
   #### 1️⃣ Faça o download do repositório [**Aqui**](https://github.com/hyagoshodan/Grub-themes/archive/refs/heads/main.zip).
 
@@ -36,7 +36,7 @@ Este repositório contém diversos temas personalizados para o Grub.
 </details>
 
 <details>
- <summary><b>Fedora 💀 Redhat</b></summary>
+ <summary><b>Fedora | Redhat</b></summary>
  
   #### 1️⃣ Faça o download do repositório [**Aqui**](https://github.com/hyagoshodan/Grub-themes/archive/refs/heads/main.zip).
 
