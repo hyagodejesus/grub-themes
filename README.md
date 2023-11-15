@@ -11,7 +11,7 @@ Este repositório contém diversos temas personalizados para o Grub.
 
   Extraia o arquivo pelo gerenciador de arquivos ou use o comando abaixo.
   ```fish
-  unzip Grub-themes-main.zip
+  unzip grub-themes-main.zip
   ```
   *O restante dos comandos são os mesmos para todos os estilos de tema.*
 
@@ -44,7 +44,7 @@ Este repositório contém diversos temas personalizados para o Grub.
 
   Extraia o arquivo pelo gerenciador de arquivos ou use o comando abaixo.
   ```fish
-  unzip Grub-themes-main.zip
+  unzip grub-themes-main.zip
   ```
    *O restante dos comandos são os mesmos para todos os estilos de tema.*
 
