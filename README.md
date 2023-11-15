@@ -1,4 +1,4 @@
-# Grub-themes
+# grub-themes
 Este repositório contém diversos temas personalizados para o Grub.
 
 ### ✔️ Instalação Manual
